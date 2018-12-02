@@ -1,0 +1,303 @@
+2018-11-27 00:00:29 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:00:29 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:00:29 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:01:04 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:01:04 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:01:04 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:01:04 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:01:04 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:01:04 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:01:04 [main] INFO  TextOperation - Sentences was sorted by length of tokens
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:01:15 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:01:15 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:01:15 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:01:15 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:01:15 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:01:15 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:01:15 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:01:16 [main] INFO  TextOperation - Paragraphs was sorted by number of sentences
+2018-11-27 00:01:16 [main] INFO  TextOperation - Paragraphs was sorted by number of sentences
+2018-11-27 00:01:16 [main] INFO  TextOperation - Paragraphs was sorted by number of sentences
+2018-11-27 00:01:16 [main] INFO  TextOperation - Paragraphs was sorted by number of sentences
+2018-11-27 00:02:40 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:02:40 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:02:40 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:02:40 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:02:40 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:02:40 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:02:40 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:02:40 [main] INFO  TextOperation - Tokens was sorted in reverse order by number of mentioned symbols
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:02:40 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:03:22 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:03:22 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:03:22 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:03:22 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:03:22 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:03:22 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:03:22 [main] INFO  TextOperation - Tokens was sorted in reverse order by number of mentioned symbols
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:03:22 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:04:06 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:04:06 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:04:06 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:04:06 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:04:06 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:04:06 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:04:06 [main] INFO  TextOperation - Tokens was sorted in reverse order by number of mentioned symbols
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:04:06 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:05:31 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:05:31 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:05:32 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:05:32 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:06:34 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:06:34 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:06:34 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:07:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:07:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:07:04 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:07:26 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:07:26 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:07:26 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:08:20 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:08:20 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:08:20 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:10:46 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:10:46 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:10:46 [main] INFO  com.epam.infohandling.parser.ParagraphParser - Paragraph was parsed on sentences
+2018-11-27 00:10:46 [main] INFO  com.epam.infohandling.parser.TextParser - Text was parsed on paragraphs
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers
+2018-11-27 00:10:46 [main] INFO  ExpressionConverter - All expressions in the text were replaced by numbers

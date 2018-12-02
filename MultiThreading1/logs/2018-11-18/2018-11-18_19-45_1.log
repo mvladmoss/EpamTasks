@@ -1,0 +1,670 @@
+2018-11-18 19:22:52 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:22:53 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:22:53 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:22:53 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:22:53 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1637.7636416rub
+USD:270.4984723845429$
+
+2018-11-18 19:22:53 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:22:53 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1160.8795rub
+EUR:928.2522727272727€
+
+2018-11-18 19:22:53 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:22:53 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:3258.1925rub
+EUR:8813.763429752065€
+
+2018-11-18 19:22:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:22:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:22:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1430.558940513044rub
+USD:367.6590015570762$
+
+2018-11-18 19:22:59 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:22:59 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:22:59 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1160.1833007560788rub
+USD:495.074477408615$
+
+2018-11-18 19:23:00 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:23:00 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:23:00 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1171.739970977591rub
+EUR:920.7150510141435€
+
+2018-11-18 19:23:00 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:23:00 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:23:00 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:5733.238545207397rub
+EUR:7742.122595350488€
+
+2018-11-18 19:23:04 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:23:04 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:23:04 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1014.0002048608128rub
+USD:563.9637780190136$
+
+2018-11-18 19:23:05 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:23:05 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:23:05 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:4638.189983072783rub
+EUR:8194.622001191237€
+
+2018-11-18 19:23:05 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:23:05 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:23:05 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1137.9130404406362rub
+EUR:931.4972510589516€
+
+2018-11-18 19:23:08 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:23:08 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:23:08 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1255.0746716881627rub
+EUR:878.2334094842124€
+
+2018-11-18 19:23:11 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:23:11 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:23:11 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:857.8441733122477rub
+USD:637.5528598043884$
+
+2018-11-18 19:23:11 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:23:11 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:23:11 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:3756.9338862889545rub
+EUR:8558.777413085381€
+
+2018-11-18 19:23:12 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:23:12 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:23:12 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1118.271532474153rub
+EUR:934.7636322999189€
+
+2018-11-18 19:23:15 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:23:15 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:23:15 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1266.8774846806086rub
+EUR:868.3444131529985€
+
+2018-11-18 19:23:15 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:23:15 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:23:15 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:3159.5813983690105rub
+EUR:8805.61728412668€
+
+2018-11-18 19:25:52 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock start to work
+2018-11-18 19:25:52 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:25:52 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:25:52 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:25:52 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:25:52 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:25:52 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:2527.3533500000003rub
+EUR:9128.469690082644€
+
+2018-11-18 19:25:52 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:25:52 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1290.6564rub
+EUR:873.726694214876€
+
+2018-11-18 19:25:52 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:25:52 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1786.0655296rub
+USD:200.55460433553253$
+
+2018-11-18 19:25:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:25:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:25:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1507.4393069824rub
+USD:331.85819652101793$
+
+2018-11-18 19:25:57 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:25:57 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:25:57 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:25:57 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1111.2551604rub
+EUR:947.8594378512397€
+
+2018-11-18 19:25:59 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:25:59 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:25:59 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:5250.93630500604rub
+EUR:7957.474141936451€
+
+2018-11-18 19:26:00 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:26:00 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:26:00 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1202.0367943223637rub
+EUR:907.2031544168927€
+
+2018-11-18 19:26:02 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:26:02 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:26:02 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:26:02 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1273.786214400128rub
+USD:441.9680422242564$
+
+2018-11-18 19:26:03 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:26:03 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:26:03 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:6348.690689764029rub
+EUR:7471.796556134026€
+
+2018-11-18 19:26:05 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:26:05 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:26:05 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1239.0008285751915rub
+USD:457.01529588691795$
+
+2018-11-18 19:26:06 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:26:06 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:26:06 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:6851.886003265744rub
+EUR:7240.476650177649€
+
+2018-11-18 19:26:06 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:26:06 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:26:06 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1171.3639661885402rub
+EUR:916.9538335612613€
+
+2018-11-18 19:26:07 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:26:09 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:26:09 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:26:09 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1185.8812329024745rub
+USD:481.2499316014137$
+
+2018-11-18 19:26:10 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:26:10 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:26:10 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:949.9761765789061rub
+EUR:1008.4363912511927€
+
+2018-11-18 19:26:12 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:26:12 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:26:12 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:26:12 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1213.5404428033687rub
+USD:466.7812065927703$
+
+2018-11-18 19:26:13 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:26:13 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:26:13 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:5981.696480850995rub
+EUR:7600.059097456471€
+
+2018-11-18 19:26:17 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock  stop to work
+2018-11-18 19:26:35 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:26:35 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock start to work
+2018-11-18 19:26:37 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:26:37 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:26:37 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:26:37 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:26:37 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:808.0rub
+EUR:1079.3388429752067€
+
+2018-11-18 19:26:37 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:26:37 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1784.0rub
+USD:201.79076343072575$
+
+2018-11-18 19:26:37 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:26:37 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:427.0rub
+EUR:10030.165289256198€
+
+2018-11-18 19:26:40 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:26:40 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:26:40 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1578.84rub
+USD:298.47313854853917$
+
+2018-11-18 19:26:42 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:26:42 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:26:42 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:26:42 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:659.328rub
+EUR:1140.7735537190083€
+
+2018-11-18 19:26:43 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:26:43 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:26:43 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1330.6667852335531rub
+USD:414.85654686516466$
+
+2018-11-18 19:26:43 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:26:43 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:26:43 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:348.005rub
+EUR:10062.80785123967€
+
+2018-11-18 19:26:53 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:26:53 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock start to work
+2018-11-18 19:26:53 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:26:53 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:26:53 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:26:53 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:26:53 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:897.0rub
+EUR:1042.5619834710744€
+
+2018-11-18 19:26:53 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:26:53 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1618.0rub
+USD:280.0188501413761$
+
+2018-11-18 19:26:53 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:26:53 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:3909.6318rub
+EUR:8538.68520661157€
+
+2018-11-18 19:26:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:26:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:26:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1537.2147418601319rub
+USD:317.33992040940876$
+
+2018-11-18 19:26:58 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:26:58 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:26:58 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:26:58 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1053.7371203801654rub
+EUR:973.7880385014685€
+
+2018-11-18 19:27:00 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:27:00 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:27:00 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:6082.110719775665rub
+EUR:7603.124744373317€
+
+2018-11-18 19:27:02 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:27:02 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:27:02 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1294.334812646231rub
+USD:431.7979454866476$
+
+2018-11-18 19:27:02 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:27:02 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:27:02 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:899.8915008046613rub
+EUR:1037.360608573991€
+
+2018-11-18 19:27:03 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:27:04 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:27:04 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:27:04 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:5188.040443968642rub
+EUR:7972.575271566302€
+
+2018-11-18 19:27:08 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:27:08 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:27:08 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:27:08 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:4197.124719170632rub
+EUR:8382.044579334075€
+
+2018-11-18 19:27:09 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:27:09 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:27:09 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1268.682640253733rub
+USD:442.7934939453392$
+
+2018-11-18 19:27:09 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:27:09 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:27:09 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:1180.7109354178579rub
+EUR:915.5004412704419€
+
+2018-11-18 19:27:11 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:27:11 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:27:11 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:3626.3157573634257rub
+EUR:8617.916051155235€
+
+2018-11-18 19:29:27 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:29:27 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock start to work
+2018-11-18 19:29:27 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:29:27 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:29:27 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:29:27 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:29:27 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:886.0rub
+EUR:Infinity€
+
+2018-11-18 19:29:27 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:29:27 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1760.0rub
+USD:Infinity$
+
+2018-11-18 19:29:27 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:29:27 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:414.0rub
+EUR:Infinity€
+
+2018-11-18 19:29:32 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:29:33 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:29:33 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:29:33 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1547.04rub
+USD:Infinity$
+
+2018-11-18 19:29:33 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:29:33 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:29:33 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:NaNrub
+EUR:NaN€
+
+2018-11-18 19:29:33 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:29:33 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:29:33 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:NaNrub
+EUR:NaN€
+
+2018-11-18 19:29:36 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:29:36 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:29:36 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:NaNrub
+EUR:NaN€
+
+2018-11-18 19:29:37 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:29:38 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:29:38 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:29:38 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:NaNrub
+USD:NaN$
+
+2018-11-18 19:29:38 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:29:38 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:29:38 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:NaNrub
+EUR:NaN€
+
+2018-11-18 19:29:39 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:29:39 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:29:39 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:NaNrub
+EUR:NaN€
+
+2018-11-18 19:29:41 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:29:41 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:29:41 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:NaNrub
+EUR:NaN€
+
+2018-11-18 19:29:47 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:29:47 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock start to work
+2018-11-18 19:29:47 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:29:47 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:29:47 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:29:47 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:29:47 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:824.0rub
+EUR:Infinity€
+
+2018-11-18 19:29:47 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:29:47 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1788.0rub
+USD:Infinity$
+
+2018-11-18 19:29:47 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:29:47 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:431.5rub
+EUR:Infinity€
+
+2018-11-18 19:29:51 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:29:51 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:29:51 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1543.0439999999999rub
+USD:Infinity$
+
+2018-11-18 19:29:51 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:29:51 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:29:51 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:NaNrub
+EUR:NaN€
+
+2018-11-18 19:29:52 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:29:54 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:29:54 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:29:54 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:NaNrub
+EUR:NaN€
+
+2018-11-18 19:29:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:29:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:29:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:NaNrub
+USD:NaN$
+
+2018-11-18 19:29:57 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:29:57 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:29:57 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:29:57 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:NaNrub
+EUR:NaN€
+
+2018-11-18 19:29:58 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:29:58 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:29:58 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:NaNrub
+EUR:NaN€
+
+2018-11-18 19:30:17 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:30:17 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock start to work
+2018-11-18 19:30:17 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:30:17 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:30:17 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:30:17 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:30:17 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:884.0rub
+EUR:1047.9338842975208€
+
+2018-11-18 19:30:17 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:30:17 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1744.0rub
+USD:220.64090480678607$
+
+2018-11-18 19:30:17 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:30:17 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:3960.8832000000007rub
+EUR:8515.337520661156€
+
+2018-11-18 19:30:20 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:30:20 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:30:20 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1440.544rub
+USD:363.6456173421301$
+
+2018-11-18 19:30:20 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:30:20 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:30:20 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:3259.8068736000005rub
+EUR:8805.03848198347€
+
+2018-11-18 19:44:38 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock start to work
+2018-11-18 19:44:38 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:44:38 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:44:38 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:44:38 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:44:38 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:44:38 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:889.0rub
+EUR:1050.2385198193224€
+
+2018-11-18 19:44:38 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:44:38 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1784.0rub
+USD:199.01825236451918$
+
+2018-11-18 19:44:38 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:44:38 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:2590.7768749rub
+EUR:9018.385318177292€
+
+2018-11-18 19:44:43 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:44:43 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:44:43 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:44:43 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1631.5685073715244rub
+USD:275.84172209841745$
+
+2018-11-18 19:44:45 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:44:45 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:44:45 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:717.423rub
+EUR:1129.156839190888€
+
+2018-11-18 19:44:45 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:44:45 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:44:45 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:4899.175109739666rub
+EUR:7912.457386843803€
+
+2018-11-18 19:44:47 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:44:47 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:44:47 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1428.3335793234196rub
+USD:377.9307251192498$
+
+2018-11-18 19:44:48 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:44:49 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:44:49 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:44:49 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:591.873975rub
+EUR:1184.2067493113052€
+
+2018-11-18 19:44:50 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:44:50 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:44:50 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1259.093619916627rub
+USD:460.34653942999876$
+
+2018-11-18 19:44:51 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:44:51 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:44:51 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:5462.268902843769rub
+EUR:7639.807544105297€
+
+2018-11-18 19:44:53 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:44:54 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:44:54 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:44:54 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:893.862181919536rub
+EUR:1045.9282430869885€
+
+2018-11-18 19:44:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:44:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal
+2018-11-18 19:44:56 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - new count of Broker2
+Broker2 Balance:
+BEL:1128.1478834452978rub
+USD:519.3860582396998$
+
+2018-11-18 19:44:56 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3wait while stock stop changing course
+2018-11-18 19:44:56 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - Broker3start to make deal
+2018-11-18 19:44:56 [pool-2-thread-3] INFO  com.epam.multithreading.broker.Broker - new count of Broker3
+Broker3 Balance:
+BEL:7493.822286387673rub
+EUR:6704.8698428120815€
+
+2018-11-18 19:44:58 [pool-2-thread-4] INFO  com.epam.multithreading.market.StockMarket - Stock has changed currency courses
+2018-11-18 19:44:59 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1wait while stock stop changing course
+2018-11-18 19:44:59 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - Broker1start to make deal
+2018-11-18 19:44:59 [pool-2-thread-1] INFO  com.epam.multithreading.broker.Broker - new count of Broker1
+Broker1 Balance:
+BEL:715.9836077175484rub
+EUR:1120.4156571796523€
+
+2018-11-18 19:45:00 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2wait while stock stop changing course
+2018-11-18 19:45:00 [pool-2-thread-2] INFO  com.epam.multithreading.broker.Broker - Broker2start to make deal

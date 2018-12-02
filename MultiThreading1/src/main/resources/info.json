@@ -1,0 +1,17 @@
+[
+    {
+      "currency": "EUR",
+      "amountBel": 1000.0,
+      "amountExt": 1000.0
+    },
+    {
+      "currency": "USD",
+      "amountBel": 2000.0,
+      "amountExt": 100.0
+    },
+    {
+      "currency": "EUR",
+      "amountBel": 500.0,
+      "amountExt": 10000.0
+    }
+]
